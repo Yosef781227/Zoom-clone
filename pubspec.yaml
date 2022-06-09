@@ -36,7 +36,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   firebase_auth: ^3.3.19
   cloud_firestore: ^3.1.17
-  jitsi_meet: ^4.0.0
+  #jitsi_meet: ^4.0.0
   firebase_core:
   google_sign_in: ^5.3.3
 
